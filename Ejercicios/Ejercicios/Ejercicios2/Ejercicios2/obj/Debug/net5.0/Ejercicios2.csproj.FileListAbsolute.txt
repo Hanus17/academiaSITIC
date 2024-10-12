@@ -1,0 +1,16 @@
+C:\Users\SEARS\Documents\trabajos tec\Varios\academiaSITIC\Github\academiaSITIC\Ejercicios\Ejercicios\Ejercicios2\Ejercicios2\bin\Debug\net5.0\Ejercicios2.exe
+C:\Users\SEARS\Documents\trabajos tec\Varios\academiaSITIC\Github\academiaSITIC\Ejercicios\Ejercicios\Ejercicios2\Ejercicios2\bin\Debug\net5.0\Ejercicios2.deps.json
+C:\Users\SEARS\Documents\trabajos tec\Varios\academiaSITIC\Github\academiaSITIC\Ejercicios\Ejercicios\Ejercicios2\Ejercicios2\bin\Debug\net5.0\Ejercicios2.runtimeconfig.json
+C:\Users\SEARS\Documents\trabajos tec\Varios\academiaSITIC\Github\academiaSITIC\Ejercicios\Ejercicios\Ejercicios2\Ejercicios2\bin\Debug\net5.0\Ejercicios2.runtimeconfig.dev.json
+C:\Users\SEARS\Documents\trabajos tec\Varios\academiaSITIC\Github\academiaSITIC\Ejercicios\Ejercicios\Ejercicios2\Ejercicios2\bin\Debug\net5.0\Ejercicios2.dll
+C:\Users\SEARS\Documents\trabajos tec\Varios\academiaSITIC\Github\academiaSITIC\Ejercicios\Ejercicios\Ejercicios2\Ejercicios2\bin\Debug\net5.0\ref\Ejercicios2.dll
+C:\Users\SEARS\Documents\trabajos tec\Varios\academiaSITIC\Github\academiaSITIC\Ejercicios\Ejercicios\Ejercicios2\Ejercicios2\bin\Debug\net5.0\Ejercicios2.pdb
+C:\Users\SEARS\Documents\trabajos tec\Varios\academiaSITIC\Github\academiaSITIC\Ejercicios\Ejercicios\Ejercicios2\Ejercicios2\obj\Debug\net5.0\Ejercicios2.csproj.AssemblyReference.cache
+C:\Users\SEARS\Documents\trabajos tec\Varios\academiaSITIC\Github\academiaSITIC\Ejercicios\Ejercicios\Ejercicios2\Ejercicios2\obj\Debug\net5.0\Ejercicios2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEARS\Documents\trabajos tec\Varios\academiaSITIC\Github\academiaSITIC\Ejercicios\Ejercicios\Ejercicios2\Ejercicios2\obj\Debug\net5.0\Ejercicios2.AssemblyInfoInputs.cache
+C:\Users\SEARS\Documents\trabajos tec\Varios\academiaSITIC\Github\academiaSITIC\Ejercicios\Ejercicios\Ejercicios2\Ejercicios2\obj\Debug\net5.0\Ejercicios2.AssemblyInfo.cs
+C:\Users\SEARS\Documents\trabajos tec\Varios\academiaSITIC\Github\academiaSITIC\Ejercicios\Ejercicios\Ejercicios2\Ejercicios2\obj\Debug\net5.0\Ejercicios2.csproj.CoreCompileInputs.cache
+C:\Users\SEARS\Documents\trabajos tec\Varios\academiaSITIC\Github\academiaSITIC\Ejercicios\Ejercicios\Ejercicios2\Ejercicios2\obj\Debug\net5.0\Ejercicios2.dll
+C:\Users\SEARS\Documents\trabajos tec\Varios\academiaSITIC\Github\academiaSITIC\Ejercicios\Ejercicios\Ejercicios2\Ejercicios2\obj\Debug\net5.0\ref\Ejercicios2.dll
+C:\Users\SEARS\Documents\trabajos tec\Varios\academiaSITIC\Github\academiaSITIC\Ejercicios\Ejercicios\Ejercicios2\Ejercicios2\obj\Debug\net5.0\Ejercicios2.pdb
+C:\Users\SEARS\Documents\trabajos tec\Varios\academiaSITIC\Github\academiaSITIC\Ejercicios\Ejercicios\Ejercicios2\Ejercicios2\obj\Debug\net5.0\Ejercicios2.genruntimeconfig.cache
